@@ -1,0 +1,5 @@
+.secrets
+artifacts/
+.deps/
+.states/
+node_modules/

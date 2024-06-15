@@ -1,0 +1,7 @@
+{
+    "address": "0x",
+    "abi": [
+        "function claim() public",
+        "function startClaimBlock() view returns (uint256)"
+    ]
+}

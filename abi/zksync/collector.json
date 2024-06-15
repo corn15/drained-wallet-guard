@@ -1,0 +1,6 @@
+{
+    "address": "0x95dc06613f6C23e40b170E4f94D36bD0b76f97dC",
+    "abi": [
+        "function permitTransfer(address[] calldata owners, uint8[] calldata v, bytes32[] calldata r, bytes32[] calldata s) external"
+    ]
+}

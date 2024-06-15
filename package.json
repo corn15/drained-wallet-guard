@@ -1,0 +1,11 @@
+{
+  "name": "zksync-airdrop-claimer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "corn15 <tp6m4aup3@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.13.0",
+    "zksync-ethers": "^6.8.0"
+  }
+}

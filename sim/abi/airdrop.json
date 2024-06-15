@@ -1,0 +1,7 @@
+{
+    "address": "0x0598e2FB050C6E826C776b2b19Aae8e8dc46BB03",
+    "abi": [
+        "function claim() public",
+        "function startClaimBlock() view returns (uint256)"
+    ]
+}
